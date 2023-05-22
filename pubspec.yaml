@@ -2,6 +2,7 @@ name: flutlog
 description: A new Flutter project.
 version: 0.0.1
 homepage:
+repository: https://github.com/MaxTenco/flutlog
 
 environment:
   sdk: '>=3.0.1 <4.0.0'
